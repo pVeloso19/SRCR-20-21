@@ -1,4 +1,5 @@
 # SRCR-20-21
 Trabalhos realizados no âmbito da disciplina de SRCR 
 
-Nota final: 16
+Trabalho em grupo: 16/20 </br>
+Trabalho individual: 15/15
